@@ -1,0 +1,7 @@
+@font-face{
+    font-family: 'Cocon';
+    /*src: url('../src/assets/fonts/Cocon_Regular.otf') format('otf');*/
+  }
+  body {
+      font-family: Cocon;
+  }
